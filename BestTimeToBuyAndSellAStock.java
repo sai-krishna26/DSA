@@ -30,7 +30,7 @@ class BestTimeToBuyAndSellAStock
 		}
 		System.out.println("buying price:"+min);
 		System.out.println("selling price:"+(min+max));
-		System.out.println("profitTT:"+max);
+		System.out.println("profit:"+max);
 	}
 }
 
